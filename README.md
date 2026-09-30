@@ -5,7 +5,7 @@ Welcome to the development repository for the MediCare Hospital Management Syste
 
 ## 👥 Group Details
 * **Ishita Sahu** (Roll Number: S26CSEU1631) – Team Lead
-* **Ameesha Bharti** (Roll Number: S26CSEU1647) – Co-Developer
+* **Amisha Bharti** (Roll Number: S26CSEU1648) – Co-Developer
 
 ## 📅 Project Milestones
 * **Milestone 1:** 30 September 2026 (Project Proposal & Initial Planning) - **Completed**
